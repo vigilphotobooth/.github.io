@@ -94,10 +94,14 @@ section {
 }
 <h2>Our Memories</h2>
 
+
 <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:10px;">
-  <img src="photos/yourphoto1.jpg" style="width:100%;border-radius:10px;">
-  <img src="photos/yourphoto2.jpg" style="width:100%;border-radius:10px;">
-  <img src="photos/yourphoto3.jpg" style="width:100%;border-radius:10px;">
+
+  <img src="photos/0G9A5789.jpg" style="width:100%;border-radius:10px;">
+  <img src="photos/0G9A6195.29.jpg" style="width:100%;border-radius:10px;">
+  <img src="photos/0G9A7999.JPG" style="width:100%;border-radius:10px;">
+
+
 </div>
 /* RSVP */
 .rsvp {
