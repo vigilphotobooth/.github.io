@@ -92,7 +92,13 @@ section {
   border-radius: 8px;
   break-inside: avoid;
 }
+<h2>Our Memories</h2>
 
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:10px;">
+  <img src="photos/yourphoto1.jpg" style="width:100%;border-radius:10px;">
+  <img src="photos/yourphoto2.jpg" style="width:100%;border-radius:10px;">
+  <img src="photos/yourphoto3.jpg" style="width:100%;border-radius:10px;">
+</div>
 /* RSVP */
 .rsvp {
   text-align: center;
